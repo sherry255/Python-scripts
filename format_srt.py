@@ -23,6 +23,8 @@ def _generate_new_file(files):
             for line in file:
                 if line[0] >= 'A':
                     str += line + ' '
+            str.replace('\n','')
+            str.replace('  ',' ')
             with open(write_file, 'w') as write_file:
                 write_file.write(str)
 
