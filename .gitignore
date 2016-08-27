@@ -87,3 +87,17 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+*.pyc
+.idea/encodings.xml
+
+.idea/workspace.xml
+
+.idea/vcs.xml
+
+.idea/Python-scripts.iml
+
+*.xml
+*.pyc
+*.iml
