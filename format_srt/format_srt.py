@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding:utf-8
 '''
-The script is aims for format the .srt files.
+The script is aims for formatting the srt files.
 '''
 __author__ = 'sherry'
 __date__ = '27 Aug 2016'
