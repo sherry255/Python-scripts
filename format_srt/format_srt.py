@@ -49,5 +49,3 @@ def file_lists():
 
 if __name__ == '__main__':
     file_lists()
-    # with open('/Users/sherry/Downloads/Lesson1Subtitles/01 - Welcome.txt', 'r') as write_file:
-    #     print write_file
