@@ -39,6 +39,7 @@ def search_key_words(links):
         # info = filter(lambda x: x.g, list())
         print (info)
         # print(i, company_name, job_name)
+        #'<ul class="c_feature">.*?<li><span>.*?</span>(.*?)</li>'
         resp = {
             'index': i,
             'company': company_name,
